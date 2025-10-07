@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Simple Chat",
+  "description": "A simple and elegant web page that provides a prompt box for a real-time chat with Google's Gemini model.",
+  "requestFramePermissions": []
+}
