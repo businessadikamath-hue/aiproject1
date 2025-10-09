@@ -1,5 +1,5 @@
 {
-  "name": "Gemini Simple Chat",
-  "description": "A simple and elegant web page that provides a prompt box for a real-time chat with Google's Gemini model.",
+  "name": "Adi Kamath AI Chatbot",
+  "description": "A simple and elegant web page that provides an ask anything feature in a real-time chat with Google's Gemini model.",
   "requestFramePermissions": []
 }
